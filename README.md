@@ -13,8 +13,8 @@ This visualization was created as part of the Neurocognition module at Humboldt-
 ## Results
 
 <p align="center">
-  <img src="slices_pictures/axial_comparison.png" width="45%"/>
-  <img src="slices_pictures/coronal_comparison.png" width="45%"/>
+  <img src="slices_pictures/fpn_dmn_axial.png" width="45%"/>
+  <img src="slices_pictures/fpn_dmn_coronal.png" width="45%"/>
 </p>
 
 *FPN (warm colors, 2-back > 0-back) and DMN (cool colors, 0-back > 2-back), T > 6.13, p < .05 FWE. Rendered in MRIcroGL from SPM12 second-level results.*
