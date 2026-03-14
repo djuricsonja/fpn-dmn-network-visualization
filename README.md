@@ -8,14 +8,13 @@ Interactive 3D visualization of whole-brain activation patterns during a working
 
 During working memory performance, the FPN is expected to show increased activation while the DMN is expected to deactivate. This was tested using data from the Human Connectome Project (HCP) working memory task.
 
-This visualization was created as part of the Neurocognition module at Humboldt-Universität zu Berlin.
+This visualization was created as part of the Neurocognition module at Humboldt-Universität zu Berlin, taught by Prof. Sebastian Markett.
 
 ## Results
 
-<p align="center">
-  <img src="slices_pictures/fpn_dmn_axial.png" width="45%"/>
-  <img src="slices_pictures/fpn_dmn_coronal.png" width="45%"/>
-</p>
+| Fig. 1 — Axial slices | Fig. 2 — Coronal slices |
+|:---:|:---:|
+| <img src="slices_pictures/fpn_dmn_axial.png" width="100%"/> | <img src="slices_pictures/fpn_dmn_coronal.png" width="100%"/> |
 
 *FPN (warm colors, 2-back > 0-back) and DMN (cool colors, 0-back > 2-back), T > 6.13, p < .05 FWE. Rendered in MRIcroGL from SPM12 second-level results.*
 
